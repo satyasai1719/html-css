@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.gray {
+    /*height: 500px;*/
+    width:100%;
+    background-color: gray;
+    /*padding-top: 50px;
+    padding-bottom: 50px;*/
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+}
+
+.red {
+    height:200px;
+    width:15%;
+    background-color: red;
+}
+
+.black {
+    height: 250px;
+    width:100%;
+    background-color:black;
+    align-items: center;
+    padding-top:30px;
+}
+
+.gray1 {
+    height: 200px;
+    width: 20%;
+    background-color: gray;
+    display:inline-block;
+    margin-left:4%;
+    
+}
